@@ -1,0 +1,13 @@
+/* css styles */
+
+h2 {
+  color: #003366;
+}
+
+#me {
+  width: 200px;
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  border: 10px solid #003366;
+}
